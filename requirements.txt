@@ -1,0 +1,9 @@
+httpx
+python-dotenv
+pydantic
+rich
+plotext
+readchar
+tenacity
+numpy
+pytest
